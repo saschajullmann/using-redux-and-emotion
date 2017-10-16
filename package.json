@@ -9,11 +9,15 @@
     "babel-plugin-emotion": "^8.0.6",
     "emotion": "^8.0.6",
     "emotion-server": "^8.0.6",
-    "gatsby": "^1.9.66",
+    "gatsby": "^1.9.68",
     "gatsby-link": "^1.6.21",
     "react-emotion": "^8.0.6",
     "react-redux": "^5.0.6",
     "react-router-dom": "^4.2.2",
     "redux": "^3.7.2"
+  },
+  "scripts": {
+      "dev": "node_modules/.bin/gatsby develop",
+      "build": "node_modules/.bin/gatsby build"
   }
 }

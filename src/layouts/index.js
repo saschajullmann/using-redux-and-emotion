@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import Navigation from '../components/Navigation/index.js'
-import { injectGlobal, css } from 'emotion';
+import { injectGlobal, css } from 'react-emotion';
 
 injectGlobal`
   body {
