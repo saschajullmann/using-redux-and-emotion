@@ -1,7 +1,7 @@
 {
-  "name": "using-redux-and-css-in-js",
+  "name": "using-redux-and-emotion",
   "version": "1.0.0",
-  "description": "This example demonstrates how to use redux and css-in-js in a GatsbyJS porject",
+  "description": "This example demonstrates how to use redux and emotion in a GatsbyJS porject",
   "main": "index.js",
   "author": "Sascha Jullmann",
   "license": "MIT",
